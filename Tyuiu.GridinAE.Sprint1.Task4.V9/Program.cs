@@ -28,5 +28,4 @@ Console.WriteLine("*************************************************************
 
 Console.WriteLine(new DataService().Calculate(x, y));
 
-
 Console.ReadKey();
