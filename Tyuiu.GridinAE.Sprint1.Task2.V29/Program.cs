@@ -24,6 +24,6 @@ Console.WriteLine("* РЕЗУЛЬТАТ:                                        
 Console.WriteLine("************************************************************************");
 var ds = new DataService();
 
-Console.WriteLine(ds.ConvertSecondsToMinutes(seconds));
+Console.WriteLine(ds.ConvertSecondsToHours(seconds));
 
 Console.ReadKey();
