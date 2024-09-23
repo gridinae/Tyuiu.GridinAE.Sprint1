@@ -32,4 +32,5 @@ Console.WriteLine("* РЕЗУЛЬТАТ:                                        
 Console.WriteLine("************************************************************************");
 Console.WriteLine(new DataService().PurchaseAmount(priceNotebook, priceCover, quantity));
 
+
 Console.ReadKey();
